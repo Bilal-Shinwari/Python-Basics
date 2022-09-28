@@ -8,8 +8,6 @@ b. His remaining balance.
 c. Cash withdrawn  
 For example: Ali, you have withdrawn 200.0 PKR. Your remaining balance is: 1800.0'''
 
-
-
 name=input("Enter your name : ")
 balnace =float(input("Enter your initial deposite : "))
 
