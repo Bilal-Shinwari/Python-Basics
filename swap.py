@@ -2,7 +2,7 @@
 
 #1st Method 
 
-from re import A, X
+
 
 
 num1=10
