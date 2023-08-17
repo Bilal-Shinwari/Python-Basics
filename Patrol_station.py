@@ -6,7 +6,7 @@ The Program should print a reciept, for example:
 You filled up 13.32 L of petrol of price = 150.1 today.
 '''
 
-price = 250.10
+price = 290.34
 
 to_fill=float(input("How much do you want to fill up : "))
 
